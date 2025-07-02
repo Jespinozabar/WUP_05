@@ -23,6 +23,8 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 # Results
 
+first what we need to do is seperate the females from the group of people we have, then were going to look at the subgroup.
+
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
 ## Descriptive Results
